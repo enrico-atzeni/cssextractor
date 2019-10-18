@@ -4,7 +4,7 @@
  * @author Enrico Atzeni <enrico.atzeni@outlook.com>
  * @copyright 2019
  * @license MIT
- * @source 
+ * @source https://github.com/enrico-atzeni/cssextractor/
  * 
  */
 /**
